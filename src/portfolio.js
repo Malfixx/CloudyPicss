@@ -363,7 +363,7 @@ const contactInfo = {
   title: emoji("Kontakt ☎️"),
   subtitle:
     "Foteczka? Nie ma problemu!",
-    url: "https://www.google.com",
+    <a href="https://discord.gg/bBuW38BMnj">,
 };
 
 // Twitter Section
