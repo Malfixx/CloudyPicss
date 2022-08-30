@@ -39,7 +39,7 @@ export default function Greeting() {
               </p>
               <SocialMedia />
               <div className="button-greeting-div">
-                <Button text="Kontakt!" href="#contact" />
+                <Button text="Kontakt!" href="https://discord.gg/bBuW38BMnj" />
                 {greeting.resumeLink && (
                   <Button
                     text="Portfolio!"

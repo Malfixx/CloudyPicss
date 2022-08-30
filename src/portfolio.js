@@ -359,13 +359,6 @@ const podcastSection = {
   display: false // Set false to hide this section, defaults to true
 };
 
-const contactInfo = {
-  title: emoji("Kontakt ☎️"),
-  subtitle:
-    "Foteczka? Nie ma problemu!",
-    <a href="https://discord.gg/bBuW38BMnj">,
-};
-
 // Twitter Section
 
 const twitterDetails = {
