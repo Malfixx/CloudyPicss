@@ -366,14 +366,6 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const contactInfo = {
-  title: emoji("💌 Kontakt!"),
-  subtitle:
-    "Aby się ze mną skontaktować kliknij w guziczek poniżej, do usłyszenia!",
-  number: "https://google.com",
-  email: "https://google.com"
-  display: false
-};
   
 export {
   illustration,
