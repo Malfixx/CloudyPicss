@@ -361,12 +361,12 @@ const podcastSection = {
 
 // Twitter Section
 
-const twitterDetails = {
+const contactInfo = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: false // Set true to display this section, defaults to false
 };
 
-const contactInfo = {
+const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
   
