@@ -366,6 +366,11 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
+const contactInfo = {
+  title: emoji("💌 Kontakt!"),
+  subtitle:
+    "Aby się ze mną skontaktować kliknij w guziczek poniżej, do usłyszenia!",
+  
 export {
   illustration,
   greeting,
@@ -374,6 +379,7 @@ export {
   skillsSection,
   educationInfo,
   techStack,
+  contactInfo,
   workExperiences,
   openSource,
   bigProjects,
