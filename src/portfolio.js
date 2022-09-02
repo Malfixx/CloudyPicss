@@ -370,6 +370,9 @@ const contactInfo = {
   title: emoji("💌 Kontakt!"),
   subtitle:
     "Aby się ze mną skontaktować kliknij w guziczek poniżej, do usłyszenia!",
+  number: "https://google.com",
+  email: "https://google.com"
+};
   
 export {
   illustration,
