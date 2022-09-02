@@ -366,6 +366,8 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
+const contactInfo = {
+};
   
 export {
   illustration,
@@ -377,6 +379,7 @@ export {
   techStack,
   workExperiences,
   openSource,
+  contactInfo,
   bigProjects,
   achievementSection,
   blogSection,
