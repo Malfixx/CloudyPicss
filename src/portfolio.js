@@ -375,7 +375,6 @@ export {
   skillsSection,
   educationInfo,
   techStack,
-  contactInfo,
   workExperiences,
   openSource,
   bigProjects,
