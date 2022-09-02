@@ -367,6 +367,7 @@ const twitterDetails = {
 };
 
 const contactInfo = {
+  display: false // Set true to display this section, defaults to false
 };
   
 export {
