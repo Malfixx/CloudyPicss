@@ -361,10 +361,6 @@ const podcastSection = {
 
 // Twitter Section
 
-const contactInfo = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: false // Set true to display this section, defaults to false
-};
 
 const twitterDetails = {
   display: false // Set true to display this section, defaults to false
@@ -380,7 +376,6 @@ export {
   techStack,
   workExperiences,
   openSource,
-  contactInfo,
   bigProjects,
   achievementSection,
   blogSection,
